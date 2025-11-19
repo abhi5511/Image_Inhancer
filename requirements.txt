@@ -1,0 +1,12 @@
+opencv-python
+numpy
+Pillow
+customtkinter
+basicsr
+facexlib
+gfpgan
+realesrgan
+requests
+tqdm
+pyyaml
+scipy

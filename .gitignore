@@ -1,0 +1,24 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+inhance/
+env/
+.venv/
+
+# Build artifacts and distribution
+build/
+dist/
+*.exe
+*.spec
+Output/
+*.iss
+
+# Model weights
+weights/*.pth
+gfpgan/weights/*.pth
+
+# Editor configuration
+.vscode/
