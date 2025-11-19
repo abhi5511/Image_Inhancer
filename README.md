@@ -13,6 +13,16 @@ This tool leverages state-of-the-art Deep Learning models (**Real-ESRGAN** & **G
 
 ---
 
+## 📥 Download Installer
+
+Don't want to mess with code? Download the ready-to-use Windows Installer directly:
+
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer_(v7.0)-0078D6?style=for-the-badge&logo=windows)](https://drive.google.com/file/d/1UTTAC4jxbC974VAZts3O2pfsHdIW8nNG/view?usp=sharing)
+
+*(Size: ~2.5 GB | Includes all AI Models & Dependencies)*
+
+---
+
 ## 🚀 Features
 
 * **🧠 Hybrid AI Engine:** Combines `Real-ESRGAN` for textures and `GFPGAN` for blind face restoration.
@@ -29,7 +39,9 @@ This tool leverages state-of-the-art Deep Learning models (**Real-ESRGAN** & **G
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️ Installation & Setup (For Developers)
+
+If you want to run the source code instead of the installer:
 
 ### Prerequisites
 * **Python 3.10+**
